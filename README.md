@@ -6,13 +6,13 @@ Hello! This is a simple repository about computer vision. You can find initiate 
 
 # You cand find here:
 
--[x] Load pre trained model;
+- [x] Load pre trained model;
 
--[x] Using pre trained model on videos and real time;
+- [x] Using pre trained model on videos and real time;
 
--[x] Construct your data set;
+- [x] Construct your data set;
 
--[x] Train your custom model;
+- [x] Train your custom model;
 
--[x] Using your custom model.
+- [x] Using your custom model.
 
